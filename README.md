@@ -41,7 +41,7 @@ The dataset includes:
 - Canada showed high revenue and while UK showed highest profit margins
 
 ## 📸 Dashboard Preview
-![Chocolate Sales Dashboard](screenshot.png)
+![Chocolate Sales Dashboard](Screenshot 2026-04-16 075656.png)
 
 ## 🚀 Conclusion
 This analysis highlights key revenue drivers and customer segments, providing insights that can help improve business strategy and profitability.
